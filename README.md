@@ -23,6 +23,8 @@ CS_bot.cna文件需修改的内容：图中选中改为CS_bot.py文件的绝对�
 ### 依赖
 `pip install WorkWeixinRobot`
 ### 启动
+将两个脚本都传到服务器上   
+
 在服务端使用CS自带的agscript工具启动,启动命令参数如下：   
 `agscript <host> <port> <user> <pass> </file/CS_bot.cna>`
 ### 效果

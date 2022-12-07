@@ -5,7 +5,7 @@
 原项目作者：GitlXl   
 项目地址：https://github.com/GitlXl/Cobalt_Strike_bot   
 ### 项目介绍
-本项目是对GitlXl师傅的项目进行更改
+本项目是对GitlXl师傅的项目进行二开
 #### 项目结构
 CS_bot.cna   获取上线用户的相关信息,并传递给CS_bot.py   
 CS_bot.py    将获取到的上线信息,传送给机器人
